@@ -2,11 +2,12 @@
 
 # Web50 Project #0 🔥 
  
-Este es un proyecto sencillo de desarrollo web diseñado para familiarizarnos con HTML, CSS y Bootstrap. 
+Este es un proyecto sencillo de desarrollo web diseñado para familiarizarnos con HTML, CSS y Bootstrap. siendo el primer entregable del curso WEB50. 
 
 # Descripción del Proyecto
 
 Este proyecto consiste en un sitio web de varias páginas que muestra tus habilidades en HTML, CSS y Bootstrap. 
+
 
 ## Requerimientos ✨
 
@@ -22,6 +23,11 @@ Este proyecto consiste en un sitio web de varias páginas que muestra tus habili
 
 - Utiliza Bootstrap 4, incorporando al menos un componente de Bootstrap y empleando el diseño de cuadrícula de Bootstrap con al menos dos columnas. (index.html) ✅
 
-- Incorpora características de SCSS en tu hoja de estilos: utiliza al menos una variable, demuestra anidamiento y muestra herencia.
+- Incorpora características de SCSS en tu hoja de estilos: utiliza al menos una variable, demuestra anidamiento y muestra herencia. (contact.scss) ✅
 
 - En el archivo README.md, proporciona una breve descripción de tu proyecto, lista el propósito de cada archivo y cualquier información adicional para el equipo. (readme.md) ✅
+
+# Nota para el STAFF de WEB50 📝
+#### en los requerimientos se anexa en parentesis el archivo en donde se esta aplicando en conjunto con el icono de check
+
+  ##### (archivo.ext) ✅  

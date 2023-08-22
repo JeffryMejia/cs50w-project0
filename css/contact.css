@@ -1,0 +1,52 @@
+.fullcorpus {
+  color: #e6f0ff;
+  background-color: #4d5f65;
+}
+.fullcorpus h3 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bold;
+}
+.fullcorpus p {
+  font-family: "Courier New", Courier, monospace;
+  font-size: medium;
+}
+
+.github {
+  width: 50%;
+}
+
+.github {
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+}
+
+.cardMstr:hover .github {
+  filter: none;
+  -webkit-filter: grayscale(0%);
+  -moz-filter: grayscale(0%);
+  -ms-filter: grayscale(0%);
+  -o-filter: grayscale(0%);
+}
+
+.link-button, .button {
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.link-button, .button {
+  background-color: rgb(39, 134, 90);
+  color: white;
+  text-decoration: none;
+  border-radius: 100px;
+}
+
+.containerCont {
+  display: flex;
+  justify-content: center;
+  width: 830px;
+  height: 100%;
+}/*# sourceMappingURL=contact.css.map */
